@@ -1,4 +1,4 @@
-# CPE322 Engineering Design 6
+# CPE 322 Engineering Design 6
 
 Lecture-Lab-Study: 1-3-2
 
