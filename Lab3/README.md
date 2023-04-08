@@ -42,3 +42,6 @@ $ python3 cpu.py
 $ python3 battery.py
 
 $ python3 documentstats.py document.txt
+
+![image](https://user-images.githubusercontent.com/98338109/230746205-f3214a68-e898-47f5-8ef6-0b484b782719.png)
+
