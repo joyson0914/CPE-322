@@ -4,7 +4,7 @@
 
 ## LAB 6
 
-# Node.js
+### Node.js
 
 $ node -v, $ npm -v
 
@@ -25,4 +25,4 @@ $ node http.js
 ![image](https://user-images.githubusercontent.com/98338109/230746889-2db02b58-10c8-4eea-93d5-a806cf3133d5.png)
 ![image](https://user-images.githubusercontent.com/98338109/230746883-73446f3d-cce4-4bc2-ba52-3ae9881a43d4.png)
 
-# Pycharm
+### Pycharm
