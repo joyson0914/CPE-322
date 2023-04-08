@@ -28,3 +28,4 @@ $ node http.js
 ## Pystache
 
 ![image](https://user-images.githubusercontent.com/98338109/230746976-10ce9980-1035-41ff-a53b-20cda6b36232.png)
+![image](https://user-images.githubusercontent.com/98338109/230747002-f4ab871c-b5a1-442f-9dbf-d5edfc16e4bd.png)
