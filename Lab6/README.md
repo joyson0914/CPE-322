@@ -26,3 +26,5 @@ $ node http.js
 ![image](https://user-images.githubusercontent.com/98338109/230746883-73446f3d-cce4-4bc2-ba52-3ae9881a43d4.png)
 
 ## Pystache
+
+![image](https://user-images.githubusercontent.com/98338109/230746976-10ce9980-1035-41ff-a53b-20cda6b36232.png)
