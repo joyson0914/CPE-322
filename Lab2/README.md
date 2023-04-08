@@ -51,7 +51,7 @@ $ clear
 
 ![image](https://user-images.githubusercontent.com/98338109/230744322-2239ab4b-d150-42e3-8b56-412dce860390.png)
 
-$ man uname
+$ man uname  **WRONG?**
 
 ![image](https://user-images.githubusercontent.com/98338109/230744352-d218bc98-ad39-4e2b-af04-3fb732fadcc3.png)
 
@@ -59,7 +59,7 @@ $ uname -a
 
 ![image](https://user-images.githubusercontent.com/98338109/230744347-e248159a-ebb0-4537-a3a5-8d4ae55c77ab.png)
 
-$ ifconfig
+$ ifconfig  **WRONG?**
 
 ![image](https://user-images.githubusercontent.com/98338109/230744404-f6179189-bbc3-481d-afb6-af4c2ac3130e.png)
 
