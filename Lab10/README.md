@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/98338109/230747106-a5979cb8-3e0a-475d-83ec-99f47c52a735.png)
 
-# LAB 10
+# LAB 10 (not finished)
 
 $ python3 hash_value.py -- Run Twice
 
