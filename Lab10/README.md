@@ -16,6 +16,10 @@ $ python3 snakecoin-server-full-code.py
 
 ![image](https://user-images.githubusercontent.com/98338109/230747526-42ee2879-b006-4625-a534-1e2e3942abc2.png)
 
+![image](https://user-images.githubusercontent.com/98338109/230935580-33bb3dd9-001e-44c2-a965-34f7199831df.png)
+![image](https://user-images.githubusercontent.com/98338109/230935208-cbda98c8-84cd-45a3-83e8-6ec53e4e5b01.png)
+![image](https://user-images.githubusercontent.com/98338109/230935431-35259c9c-2e4d-4848-af53-8293641656f4.png)
+
 
 $ curl "localhost:5000/txion" \
      -H "Content-Type: application/json" \
