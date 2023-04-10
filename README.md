@@ -19,7 +19,9 @@ Contact Information: Burchard B-308F, [kevin.lu@stevens.edu](mailto:kevin.lu@ste
 Office Hours: Tuesday/Thursday 12:00 PM to 2:30 PM
 
 
+
 ## LAB Progress
+Github: https://github.com/kevinwlu/iot.git
 
 - Lab 1
 - Lab 2: two comments not working properly
