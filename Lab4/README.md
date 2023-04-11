@@ -39,3 +39,5 @@ $ sudo pip3 install -U requests
 
 ![image](https://user-images.githubusercontent.com/98338109/231039799-8b313159-df75-4525-b8a8-9cc416615fb9.png)
 
+
+## 2. Start Django project stevens
