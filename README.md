@@ -24,7 +24,7 @@ Office Hours: Tuesday/Thursday 12:00 PM to 2:30 PM
 Github: https://github.com/kevinwlu/iot.git
 
 - Lab 1
-- Lab 2: two comments not working properly
+- Lab 2: done!
 - Lab 3: cannot install psutil, library location is not working 
 - Lab 4:
 - Lab 5:
