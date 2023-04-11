@@ -52,4 +52,6 @@ $ sudo pip3 install -U requests
 
 - Create MySQL database
 
+![image](https://user-images.githubusercontent.com/98338109/231041069-01ea5431-47e9-472e-a955-979fd14cc82d.png)
+
 
