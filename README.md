@@ -34,3 +34,6 @@ Github: https://github.com/kevinwlu/iot.git
 - Lab 9:
 - Lab 10: behind part is not working
 
+Useful links for labs:
+- https://github.com/pypa/get-pip
+- https://learn.microsoft.com/en-us/windows/wsl/install
