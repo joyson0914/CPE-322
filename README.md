@@ -31,8 +31,8 @@ Github: https://github.com/kevinwlu/iot.git
 - Lab 6: done!
 - Lab 7:
 - Lab 8:
-- Lab 9:
-- Lab 10: behind part is not working
+- Lab 9: done!
+- Lab 10: on progress- behind part is not working
 
 Useful links for labs:
 - https://github.com/pypa/get-pip
