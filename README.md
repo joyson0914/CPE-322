@@ -25,7 +25,7 @@ Github: https://github.com/kevinwlu/iot.git
 
 - Lab 1
 - Lab 2: done!
-- Lab 3: cannot install psutil, library location is not working 
+- Lab 3: done!
 - Lab 4:
 - Lab 5:
 - Lab 6: done!
