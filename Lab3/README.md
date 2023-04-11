@@ -7,43 +7,49 @@
 
 $ cd ~/iot, $ cd *3
 
-![image](https://user-images.githubusercontent.com/98338109/230744621-12e1d347-a2a5-45f1-826f-9ce98c10981e.png)
+![image](https://user-images.githubusercontent.com/98338109/231037321-b88015b6-b162-482c-b195-2922b557619c.png)
 
 $ python3 julian.py
 
-![image](https://user-images.githubusercontent.com/98338109/230745176-8c3191de-c1a9-4f66-ac24-acb0174f7b80.png)
+![image](https://user-images.githubusercontent.com/98338109/231037348-42315dbe-cd5d-4e09-a6b0-ff9957d865a7.png)
 
 $ python3 date_example.py
 
-![image](https://user-images.githubusercontent.com/98338109/230745231-dfef29f4-0df4-4db3-a2bd-8b957980f46e.png)
+![image](https://user-images.githubusercontent.com/98338109/231037389-6e25d7e8-46e3-4302-8c32-a96f408e6e3e.png)
 
 $ python3 datetime_example.py
 
-![image](https://user-images.githubusercontent.com/98338109/230745244-92c7fb56-f06b-4042-8288-2b68e62fb27a.png)
+![image](https://user-images.githubusercontent.com/98338109/231037415-9550412d-d928-4513-8c8f-04f810d4b9f1.png)
 
 $ python3 time_example.py
 
-![image](https://user-images.githubusercontent.com/98338109/230745364-5b841fe8-b272-403a-ba5c-2eef90dbecc3.png)
+![image](https://user-images.githubusercontent.com/98338109/231037523-1553b0ee-2354-41cc-9705-764c969b8ea8.png)
 
 $ python3 sun.py 'New York'
 
-![image](https://user-images.githubusercontent.com/98338109/230745449-da9fda3d-72c6-4b9c-a40b-73e78d07dd3c.png)
+![image](https://user-images.githubusercontent.com/98338109/231037605-a65722e8-b9a8-4b2a-b7fd-5aa2ab09331f.png)
 
 $ python3 moon.py
 
-![image](https://user-images.githubusercontent.com/98338109/230745462-ddd8bade-bb7a-49a6-b815-77f69f232a4a.png)
+![image](https://user-images.githubusercontent.com/98338109/231037683-d5b096a0-c8c1-48e4-8941-a73879a89601.png)
 
-$ python3 coordinates.py 'SC Williams Library' -----> NEED to fix
+$ python3 coordinates.py 'SC Williams Library' 
 
-![image](https://user-images.githubusercontent.com/98338109/230745556-0e167644-d33e-4ff3-a567-5f6a2b34bd63.png)
+![image](https://user-images.githubusercontent.com/98338109/231037763-3faf4a86-5b39-425c-afd4-0cf78cda0668.png)
 
 $ python3 address.py '40.74480675, -74.02532862031404'
 
+![image](https://user-images.githubusercontent.com/98338109/231037818-abe950c9-765f-4615-96c6-732357d9f1a2.png)
+
 $ python3 cpu.py
+
+![image](https://user-images.githubusercontent.com/98338109/231037964-16016fad-2ae3-4a7c-97c9-147b65633ed0.png)
 
 $ python3 battery.py
 
+![image](https://user-images.githubusercontent.com/98338109/231038037-fad4b77c-6859-4035-9083-0bc23c45fc8f.png)
+
 $ python3 documentstats.py document.txt
 
-![image](https://user-images.githubusercontent.com/98338109/230746205-f3214a68-e898-47f5-8ef6-0b484b782719.png)
+![image](https://user-images.githubusercontent.com/98338109/231038099-31f29a08-efab-4363-8204-43319d01f496.png)
 
