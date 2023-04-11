@@ -40,4 +40,16 @@ $ sudo pip3 install -U requests
 ![image](https://user-images.githubusercontent.com/98338109/231039799-8b313159-df75-4525-b8a8-9cc416615fb9.png)
 
 
-## 2. Start Django project stevens
+## 2. Django project stevens
+
+- Start project
+ 
+![image](https://user-images.githubusercontent.com/98338109/231040208-2c8fa9ac-e67c-476c-b07b-def92298afd5.png)
+
+-  Start app
+
+![image](https://user-images.githubusercontent.com/98338109/231040419-31f914ec-0135-430e-a13a-63fa39981db7.png)
+
+- Create MySQL database
+
+
