@@ -7,10 +7,35 @@
 ## 1. Install Django and Django REST framework on Raspberry Pi
 
 $ pip3 -V
+
+![image](https://user-images.githubusercontent.com/98338109/231039105-1d11dde0-4bdf-46e6-9742-a46e230879a5.png)
+
 $ pip3 list
+
+![image](https://user-images.githubusercontent.com/98338109/231039189-b64a28bd-fb58-4c7e-852a-b02d8bdccced.png)
+![image](https://user-images.githubusercontent.com/98338109/231039244-8b1322da-705e-4151-9550-bcb6b65dca70.png)
+
 $ sudo pip3 install -U setuptools
+
+![image](https://user-images.githubusercontent.com/98338109/231039485-b4b83170-ebbd-4960-9811-a954bf0eac25.png)
+
 $ sudo pip3 install -U django
+
+![image](https://user-images.githubusercontent.com/98338109/231039604-686dce5d-ba31-49fa-8722-be241f6c9c62.png)
+
 $ sudo pip3 install -U djangorestframework
+
+![image](https://user-images.githubusercontent.com/98338109/231039670-14d5a672-4e94-4221-b447-573a1d2dfab5.png)
+
 $ sudo pip3 install -U django-filter
+
+![image](https://user-images.githubusercontent.com/98338109/231039719-0d25a755-a833-42d0-b0ae-7413f64e87d7.png)
+
 $ sudo pip3 install -U markdown
+
+![image](https://user-images.githubusercontent.com/98338109/231039764-cf1c47c7-c27b-4d8f-a862-06951ae332a9.png)
+
 $ sudo pip3 install -U requests
+
+![image](https://user-images.githubusercontent.com/98338109/231039799-8b313159-df75-4525-b8a8-9cc416615fb9.png)
+
