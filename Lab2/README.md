@@ -6,12 +6,11 @@
 
 $ hostname
 
-![image](https://user-images.githubusercontent.com/98338109/230743866-43cb94bb-1e50-4dc8-bcbd-9c22a9d2464a.png)
+![image](https://user-images.githubusercontent.com/98338109/231033780-76e2eaad-8296-4377-9886-73d72b046c47.png)
 
 $ env
 
-![image](https://user-images.githubusercontent.com/98338109/230743909-bb811b80-dd30-4b7f-89a9-a244d29c6710.png)
-![image](https://user-images.githubusercontent.com/98338109/230743928-00c5cefb-5630-43a9-936b-a8b7c335bda2.png)
+![image](https://user-images.githubusercontent.com/98338109/231033748-4e1a95b1-16b3-4b57-b474-c9be93e09656.png)
 
 $ ps
 
