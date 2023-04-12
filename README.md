@@ -23,7 +23,7 @@ Office Hours: Tuesday/Thursday 12:00 PM to 2:30 PM
 ## LAB Progress
 Github: https://github.com/kevinwlu/iot.git
 
-- Lab 1
+- Lab 1: done!
 - Lab 2: done!
 - Lab 3: done!
 - Lab 4: on progress
