@@ -44,6 +44,40 @@ $ sudo make install
 ![image](https://user-images.githubusercontent.com/98338109/231578463-627b7b61-ea76-4e40-8903-556b77657c9d.png)
 ![image](https://user-images.githubusercontent.com/98338109/231578503-f7bd237d-65d1-4fe7-8b87-3a1b4a93de23.png)
 
+- Quick Start Guide
+
+$ git clone https://github.com/kevinwlu/dsd.git
+$ mkdir vhdl
+$ cd vhdl
+$ cp ~/dsd/ghdl/*vhdl .
+
+![image](https://user-images.githubusercontent.com/98338109/231578875-21782262-4b8a-47fc-8966-5fb7ad1daae2.png)
+
 ## Run the Half Adder example
 
+$ ghdl -a ha.vhdl
+$ ghdl -a ha_tb.vhdl
+$ ghdl -e ha_tb
+$ ghdl -r ha_tb --vcd=ha.vcd
+ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
+
+![image](https://user-images.githubusercontent.com/98338109/231579235-aeafe1ee-c956-4486-9225-6fb8dad3a0fb.png)
+
+$ gtkwave ha.vcd
+
+![image](https://user-images.githubusercontent.com/98338109/231579672-a23238c8-1e4d-4665-90c7-73894d62aa11.png)
+![image](https://user-images.githubusercontent.com/98338109/231580137-6ee6f270-b738-49f3-b1e1-ee4440ffe9cd.png)
+
 ## Run another example such as D Flip-Flop or 4-to-1 Multiplexer
+
+$ ghdl -a dff.vhdl
+$ ghdl -a dff_tb.vhdl
+$ ghdl -e dff_tb
+$ ghdl -r dff_tb --vcd=dff.vcd
+
+![image](https://user-images.githubusercontent.com/98338109/231580398-0fba6478-f6da-4459-bca4-ee4879805a81.png)
+
+$ gtkwave dff.vcd
+
+![image](https://user-images.githubusercontent.com/98338109/231581004-54565206-c3ae-4eb9-857d-36592a86ff29.png)
+![image](https://user-images.githubusercontent.com/98338109/231580970-db10d31a-cfb5-4c55-af79-f1ac79f4cd74.png)
