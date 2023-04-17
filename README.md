@@ -27,7 +27,7 @@ Github: https://github.com/kevinwlu/iot.git
 - Lab 2: done!
 - Lab 3: done!
 - Lab 4: on progress
-- Lab 5:
+- Lab 5: on progress
 - Lab 6: done!
 - Lab 7:
 - Lab 8:
