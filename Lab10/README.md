@@ -6,17 +6,22 @@
 
 $ python3 hash_value.py -- Run Twice
 
-![image](https://user-images.githubusercontent.com/98338109/230747138-90ba912e-b158-4ed9-a6b8-f034084b16ea.png)
+![image](https://user-images.githubusercontent.com/98338109/234388257-d8aa9034-ce25-40d2-baec-56f8e26e828b.png)
 
 $ python3 snakecoin.py
 
-![image](https://user-images.githubusercontent.com/98338109/230747165-390e5f5b-b036-4fb0-b314-b019513891c2.png)
+![image](https://user-images.githubusercontent.com/98338109/234388395-6d7198fe-6cee-4a6a-afae-cb46ce734f5b.png)
+![image](https://user-images.githubusercontent.com/98338109/234388455-2ac59dd8-4016-4c12-a7e2-860502db9736.png)
 
 $ python3 snakecoin-server-full-code.py
 
 ![image](https://user-images.githubusercontent.com/98338109/230935580-33bb3dd9-001e-44c2-a965-34f7199831df.png)
 ![image](https://user-images.githubusercontent.com/98338109/230935208-cbda98c8-84cd-45a3-83e8-6ec53e4e5b01.png)
 ![image](https://user-images.githubusercontent.com/98338109/230935431-35259c9c-2e4d-4848-af53-8293641656f4.png)
+
+![image](https://user-images.githubusercontent.com/98338109/234388679-21718bf2-0cf3-4518-b29e-49c9018b152b.png)
+
+![image](https://user-images.githubusercontent.com/98338109/234388634-161c1446-9530-44a2-9db0-58009e6f6fcb.png)
 
 
 $ curl "localhost:5000/txion" \
