@@ -40,9 +40,16 @@ $ python3 node_server.py
 ![image](https://user-images.githubusercontent.com/98338109/234380635-f884ccfe-eecf-498f-97e5-13fbc7a9fefc.png)
 ![image](https://user-images.githubusercontent.com/98338109/234384035-50df3640-0b67-43a0-a7a4-fe3fd33f0165.png)
 
-$ python3 run_app.py
-![image](https://user-images.githubusercontent.com/98338109/234380886-2c94efca-1db1-4760-a795-bbc288b56bc0.png)
+$ vncserver
 
+![image](https://user-images.githubusercontent.com/98338109/234385568-bab24f9b-9e49-4e08-9052-89714442f2c3.png)
+![image](https://user-images.githubusercontent.com/98338109/234386430-0f6c3fb7-fb37-4656-9df9-f64903cab133.png)
+
+$ python3 run_app.py
+
+![image](https://user-images.githubusercontent.com/98338109/234386389-74c93fa6-6323-4450-9bb3-6897be6f5001.png)
+
+![image](https://user-images.githubusercontent.com/98338109/234386540-f1f328d8-c87e-4239-bc99-c3e36b258b33.png)
 
 
 
