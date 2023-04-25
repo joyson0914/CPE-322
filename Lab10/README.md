@@ -32,7 +32,18 @@ $ cd python_blockchain_app
 
 $ nano node_server.py
 
+![image](https://user-images.githubusercontent.com/98338109/234382729-3cb18f24-e5ca-4de3-a434-ebf96c1747c3.png)
 
 $ python3 node_server.py
+
+![image](https://user-images.githubusercontent.com/98338109/234380551-225adb66-89f6-4f4a-9515-13b86f748c60.png)
+![image](https://user-images.githubusercontent.com/98338109/234380635-f884ccfe-eecf-498f-97e5-13fbc7a9fefc.png)
+![image](https://user-images.githubusercontent.com/98338109/234380722-52fb3dce-f30f-4225-9925-8260718494b2.png)
+
+$ python3 run_app.py
+![image](https://user-images.githubusercontent.com/98338109/234380886-2c94efca-1db1-4760-a795-bbc288b56bc0.png)
+
+
+
 
 
