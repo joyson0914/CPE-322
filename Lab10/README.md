@@ -38,8 +38,6 @@ $ python3 node_server.py
 
 ![image](https://user-images.githubusercontent.com/98338109/234380551-225adb66-89f6-4f4a-9515-13b86f748c60.png)
 ![image](https://user-images.githubusercontent.com/98338109/234380635-f884ccfe-eecf-498f-97e5-13fbc7a9fefc.png)
-![image](https://user-images.githubusercontent.com/98338109/234384035-50df3640-0b67-43a0-a7a4-fe3fd33f0165.png)
-
 ![image](https://user-images.githubusercontent.com/98338109/234397820-3cbd7769-8be0-4e3b-9b4a-72a1462ef31b.png)
 
 $ vncserver
