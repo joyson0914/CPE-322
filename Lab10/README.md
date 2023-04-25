@@ -27,11 +27,12 @@ $ curl localhost:5000/mine
 ## Python BlockChain
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
 $ cd python_blockchain_app
+
+![image](https://user-images.githubusercontent.com/98338109/234378433-89d586df-2281-458b-8b60-5f6498e13cf8.png)
+
 $ nano node_server.py
 
-![image](https://user-images.githubusercontent.com/98338109/230747772-1cd224cc-b320-411e-a59e-e34ba57b976a.png)
-![image](https://user-images.githubusercontent.com/98338109/230747759-003c56ac-7bb2-4d4a-90db-63de2bb19ab0.png)
 
 $ python3 node_server.py
 
-![image](https://user-images.githubusercontent.com/98338109/230747784-4b2285a0-64c2-40b2-be27-33ac65b1df8d.png)
+
