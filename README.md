@@ -32,7 +32,7 @@ Github: https://github.com/kevinwlu/iot.git
 - Lab 7:
 - Lab 8:
 - Lab 9: done!
-- Lab 10: 90% done- missing some screenshots /mine not working
+- Lab 10: done!
 
 Useful links for labs:
 - https://github.com/pypa/get-pip
