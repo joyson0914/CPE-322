@@ -40,6 +40,8 @@ $ python3 node_server.py
 ![image](https://user-images.githubusercontent.com/98338109/234380635-f884ccfe-eecf-498f-97e5-13fbc7a9fefc.png)
 ![image](https://user-images.githubusercontent.com/98338109/234384035-50df3640-0b67-43a0-a7a4-fe3fd33f0165.png)
 
+![image](https://user-images.githubusercontent.com/98338109/234397820-3cbd7769-8be0-4e3b-9b4a-72a1462ef31b.png)
+
 $ vncserver
 
 ![image](https://user-images.githubusercontent.com/98338109/234385568-bab24f9b-9e49-4e08-9052-89714442f2c3.png)
@@ -50,8 +52,11 @@ $ python3 run_app.py
 ![image](https://user-images.githubusercontent.com/98338109/234386389-74c93fa6-6323-4450-9bb3-6897be6f5001.png)
 ![image](https://user-images.githubusercontent.com/98338109/234386540-f1f328d8-c87e-4239-bc99-c3e36b258b33.png)
 
+![image](https://user-images.githubusercontent.com/98338109/234397859-d53c0b86-7dc0-4581-96d7-ed0ccf2767d0.png)
 
-![image](https://user-images.githubusercontent.com/98338109/234391075-d3283b97-2e86-4069-b6c9-9eacccdabc6c.png)
 
+![image](https://user-images.githubusercontent.com/98338109/234397661-0da0ea70-d431-481a-8b0e-50d00aad6eac.png)
+![image](https://user-images.githubusercontent.com/98338109/234397712-8c8c1e32-5351-4c48-a38a-46e6e6a603e5.png)
+![image](https://user-images.githubusercontent.com/98338109/234397768-f520b731-b294-426c-b9e6-5dbe7c55465d.png)
 
 
