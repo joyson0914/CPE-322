@@ -21,11 +21,15 @@ $ cp ~/iot/lesson7/thingspeak_feed.py .
 $ python3 thingspeak_feed.py
 
 ![image](https://user-images.githubusercontent.com/98338109/235008640-b0fb8dc8-77f3-4a92-b793-4a112e8f2819.png)
-
 ![image](https://user-images.githubusercontent.com/98338109/235010846-f2ffd1af-b982-4248-a761-23ea7f524fb1.png)
+
 
 ## 2. Google Sheets
 - Sign up and log in the Google Cloud Platform Identity and Access Management (IAM)
 - Click "Create" and enter the project name, e.g., rpidata
     ≡ > APIs & Services > + Enable APIs & Services > Enable both Drive API and Sheets API
     Credential > Create Credentials > Create service account key > Service account > rpidata > JSON key type > Create > download rpidata-xxxxxxxxxxxx.json
+
+![image](https://user-images.githubusercontent.com/98338109/235013191-a9bd89f7-2261-4302-b461-501ee5ccc508.png)
+![image](https://user-images.githubusercontent.com/98338109/235013136-3f131498-d332-47fc-b1d1-ec6c931d7b75.png)
+
