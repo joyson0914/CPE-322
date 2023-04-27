@@ -4,6 +4,10 @@
 
 # LAB 7
 
+## ThingSpeak
+- Sign up and log in ThingSpeak
+- Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
+
 $ sudo pip3 install -U psutil
 
 ![image](https://user-images.githubusercontent.com/98338109/235006691-6bfa9429-4b3e-4327-a456-836733ec664f.png)
