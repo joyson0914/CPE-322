@@ -4,7 +4,7 @@
 
 # LAB 7
 
-## ThingSpeak
+## 1. ThingSpeak
 - Sign up and log in ThingSpeak
 - Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
 
@@ -24,7 +24,7 @@ $ python3 thingspeak_feed.py
 
 ![image](https://user-images.githubusercontent.com/98338109/235010846-f2ffd1af-b982-4248-a761-23ea7f524fb1.png)
 
-## Google Sheets
+## 2. Google Sheets
 - Sign up and log in the Google Cloud Platform Identity and Access Management (IAM)
 - Click "Create" and enter the project name, e.g., rpidata
     ≡ > APIs & Services > + Enable APIs & Services > Enable both Drive API and Sheets API
