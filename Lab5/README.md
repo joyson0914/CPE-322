@@ -16,3 +16,24 @@ $ sudo apt install mosquitto mosquitto-clients
 ![image](https://user-images.githubusercontent.com/98338109/232514065-9fdd0ad6-811f-478c-9eff-655a19cd53aa.png)
 
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
+
+$ sudo pip3 install -U paho-mqtt
+![image](https://user-images.githubusercontent.com/98338109/234910187-880ee85c-ca6b-45c6-8c47-57aaf4617f35.png)
+
+$ git clone https://github.com/eclipse/paho.mqtt.python.git
+
+![image](https://user-images.githubusercontent.com/98338109/234910404-40bd1d94-ea55-4deb-9e49-bb8b3fcebcc7.png)
+
+$ cd ~/iot/lesson5
+
+![image](https://user-images.githubusercontent.com/98338109/234910472-208e8e05-f7f0-42f0-9d5c-1e9af78b0abf.png)
+
+$ python3 client.py
+
+![image](https://user-images.githubusercontent.com/98338109/234910955-ce3c9ac1-259a-4358-830e-20d6e22bd9c5.png)
+
+$ python3 sub.py  $ python3 pub.py
+
+$ python3 sub-multiple.py   $ python3 pub-multiple.py
+
+$ python3 subcpu.py   $ python3 pubcpu.py
