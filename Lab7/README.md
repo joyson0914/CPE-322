@@ -40,12 +40,13 @@ $ sudo pip3 install -U gspread oauth2client
 
 $ cd demo
 $ cp ~/iot/lesson3/system_info.py .
-$ cp ~/iot/lesson7/rpi_spreadsheet.py .
+$ cp ~/iot/lesson7/cpu_spreadsheet.py .
 
 ![image](https://user-images.githubusercontent.com/98338109/235015663-6b1cf959-3eff-4786-8564-bf1cf153ec0b.png)
+![image](https://user-images.githubusercontent.com/98338109/235059404-1825630e-2291-4c85-a636-bf54bd2c7fbb.png)
 
-Edit rpi_spreadsheet.py
+Edit cpu_spreadsheet.py
 
-![image](https://user-images.githubusercontent.com/98338109/235057419-2707a571-0426-455e-b2be-8b85a0be31ba.png)
+![image](https://user-images.githubusercontent.com/98338109/235059220-52996f5f-a09f-46bc-986b-0a7e32c3d238.png)
 
-$ python3 rpi_spreadsheet.py
+$ python3 cpu_spreadsheet.py
