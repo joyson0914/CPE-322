@@ -36,9 +36,13 @@ $ python3 thingspeak_feed.py
 
 $ sudo pip3 install -U gspread oauth2client
 
+![image](https://user-images.githubusercontent.com/98338109/235015583-2ef8d394-cfbd-4efe-9158-b968605b2f98.png)
+
 $ cd demo
 $ cp ~/iot/lesson3/system_info.py .
 $ cp ~/iot/lesson7/rpi_spreadsheet.py .
+
+![image](https://user-images.githubusercontent.com/98338109/235015663-6b1cf959-3eff-4786-8564-bf1cf153ec0b.png)
 
 $ nano rpi_spreadsheet.py
 $ python3 rpi_spreadsheet.py
