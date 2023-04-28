@@ -44,5 +44,8 @@ $ cp ~/iot/lesson7/rpi_spreadsheet.py .
 
 ![image](https://user-images.githubusercontent.com/98338109/235015663-6b1cf959-3eff-4786-8564-bf1cf153ec0b.png)
 
-$ nano rpi_spreadsheet.py
+Edit rpi_spreadsheet.py
+
+![image](https://user-images.githubusercontent.com/98338109/235057419-2707a571-0426-455e-b2be-8b85a0be31ba.png)
+
 $ python3 rpi_spreadsheet.py
