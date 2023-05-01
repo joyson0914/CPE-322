@@ -36,8 +36,10 @@ $ python3 client.py
 
 ![image](https://user-images.githubusercontent.com/98338109/234910955-ce3c9ac1-259a-4358-830e-20d6e22bd9c5.png)
 
-$ python3 sub.py  $ python3 pub.py
+$ python3 subcpu.py  $ python3 pubcpu.py
 
-$ python3 sub-multiple.py   $ python3 pub-multiple.py
+![image](https://user-images.githubusercontent.com/98338109/235537850-c93eba2d-710a-4f38-ad4f-dac65f63d0ca.png)
 
-$ python3 subcpu.py   $ python3 pubcpu.py
+
+
+
