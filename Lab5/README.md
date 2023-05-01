@@ -28,6 +28,10 @@ $ cd ~/iot/lesson5
 
 ![image](https://user-images.githubusercontent.com/98338109/234910472-208e8e05-f7f0-42f0-9d5c-1e9af78b0abf.png)
 
+![image](https://user-images.githubusercontent.com/98338109/235537467-3d384ae9-c202-4ae7-ada9-b1317c1739e2.png)
+
+
+
 $ python3 client.py
 
 ![image](https://user-images.githubusercontent.com/98338109/234910955-ce3c9ac1-259a-4358-830e-20d6e22bd9c5.png)
