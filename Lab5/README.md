@@ -15,8 +15,6 @@ $ sudo apt install mosquitto mosquitto-clients
 
 ![image](https://user-images.githubusercontent.com/98338109/232514065-9fdd0ad6-811f-478c-9eff-655a19cd53aa.png)
 
-$ mosquitto_sub -h localhost -v -t "\$SYS/#"
-
 $ sudo pip3 install -U paho-mqtt
 ![image](https://user-images.githubusercontent.com/98338109/234910187-880ee85c-ca6b-45c6-8c47-57aaf4617f35.png)
 
