@@ -47,8 +47,11 @@ $ cp ~/iot/lesson7/cpu_spreadsheet.py .
 
 Edit cpu_spreadsheet.py
 
-![image](https://user-images.githubusercontent.com/98338109/235540289-8170454b-52d6-4240-bc60-bd237e82283e.png)
+![image](https://user-images.githubusercontent.com/98338109/235540942-f69979be-f099-4a1d-a8a5-378edcb2373b.png)
 
-![image](https://user-images.githubusercontent.com/98338109/235059220-52996f5f-a09f-46bc-986b-0a7e32c3d238.png)
+Create google sheet and share
+
+![image](https://user-images.githubusercontent.com/98338109/235541038-d6be6074-b9c1-42e6-8a7e-4fc940be9b82.png)
 
 $ python3 cpu_spreadsheet.py
+![image](https://user-images.githubusercontent.com/98338109/235541078-ba52936a-2c75-43f2-998e-c95205d64e13.png)
