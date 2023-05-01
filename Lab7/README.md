@@ -44,8 +44,6 @@ $ cp ~/iot/lesson7/cpu_spreadsheet.py .
 
 ![image](https://user-images.githubusercontent.com/98338109/235015663-6b1cf959-3eff-4786-8564-bf1cf153ec0b.png)
 ![image](https://user-images.githubusercontent.com/98338109/235059404-1825630e-2291-4c85-a636-bf54bd2c7fbb.png)
-![image](https://user-images.githubusercontent.com/98338109/235541239-819f9ced-9d6f-456b-a96e-2ad8152d0585.png)
-
 
 Edit cpu_spreadsheet.py
 
