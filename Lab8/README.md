@@ -27,9 +27,7 @@ $ nano plt_final.py
 
 $ nano plt_cv2.py
 
-![image](https://user-images.githubusercontent.com/98338109/235543508-45421e51-408a-4f8b-889c-5726a8d3e618.png)
 ![image](https://user-images.githubusercontent.com/98338109/235544247-e208b4d9-02b8-4e2d-83af-32447f72ad2d.png)
-
 
 $ python3 plt_final.py
 
