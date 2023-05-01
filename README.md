@@ -26,11 +26,11 @@ Github: https://github.com/kevinwlu/iot.git
 - Lab 1: done!
 - Lab 2: done!
 - Lab 3: done!
-- Lab 4: on progress
+- Lab 4: on progress - cannot connect to the server
 - Lab 5: done! (but need to check)
 - Lab 6: done!
 - Lab 7: done!
-- Lab 8:
+- Lab 8: on progress- cannot plot using matplotlib
 - Lab 9: done!
 - Lab 10: done!
 
