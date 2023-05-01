@@ -22,12 +22,14 @@ $ nano plt_final.py
 
 ![image](https://user-images.githubusercontent.com/98338109/235543416-e4cdda8d-639f-4fb6-be6a-e68e587c6b82.png)
 
-- Need to change temperature to memory available
-  -![image](https://user-images.githubusercontent.com/98338109/235543949-f9db4e78-60a7-43c7-ab47-277e22e64c81.png)
+- Need to change temperature to memory available and the date
+  ![image](https://user-images.githubusercontent.com/98338109/235544157-ab9ce3fc-bc6f-44b8-b7fd-c9e9526a5e72.png)
 
 $ nano plt_cv2.py
 
 ![image](https://user-images.githubusercontent.com/98338109/235543508-45421e51-408a-4f8b-889c-5726a8d3e618.png)
+![image](https://user-images.githubusercontent.com/98338109/235544247-e208b4d9-02b8-4e2d-83af-32447f72ad2d.png)
+
 
 $ python3 plt_final.py
 
