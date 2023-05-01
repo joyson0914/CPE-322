@@ -56,4 +56,6 @@ Create google sheet and share
 $ python3 cpu_spreadsheet.py
 
 ![image](https://user-images.githubusercontent.com/98338109/235541078-ba52936a-2c75-43f2-998e-c95205d64e13.png)
+![image](https://user-images.githubusercontent.com/98338109/235541581-ff037db7-26d7-4143-9667-726ec8a4d9c2.png)
+
 
