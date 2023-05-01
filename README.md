@@ -20,6 +20,7 @@ Office Hours: Tuesday/Thursday 12:00 PM to 2:30 PM
 
 ## D6 Project Website
 https://sites.google.com/stevens.edu/ee-cpe322group20/home
+OmnihEAR
 
 ## LAB Progress
 Github: https://github.com/kevinwlu/iot.git
