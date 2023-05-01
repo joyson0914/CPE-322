@@ -23,7 +23,7 @@ $ nano plt_final.py
 ![image](https://user-images.githubusercontent.com/98338109/235543416-e4cdda8d-639f-4fb6-be6a-e68e587c6b82.png)
 
 - Need to change temperature to memory available and the date
-  ![image](https://user-images.githubusercontent.com/98338109/235544157-ab9ce3fc-bc6f-44b8-b7fd-c9e9526a5e72.png)
+  ![image](https://user-images.githubusercontent.com/98338109/235545388-582c210e-243b-48cb-a6c8-19a50e7ce678.png)
 
 $ nano plt_cv2.py
 
