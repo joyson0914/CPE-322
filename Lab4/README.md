@@ -50,37 +50,46 @@ $ sudo pip3 install -U requests
 
 ![image](https://user-images.githubusercontent.com/98338109/231040419-31f914ec-0135-430e-a13a-63fa39981db7.png)
 
-- Create MySQL database
-
-![image](https://user-images.githubusercontent.com/98338109/231041069-01ea5431-47e9-472e-a955-979fd14cc82d.png)
-
+- Edit settings.py in ~/stevens/stevens
 
 ![image](https://user-images.githubusercontent.com/98338109/235728106-b18ba6ed-000a-4aba-a529-7c502024606c.png)
 
-Copy admin.py, models.py, and views.py to ~/stevens/myapp
+- Copy admin.py, models.py, and views.py to ~/stevens/myapp
 
 ![image](https://user-images.githubusercontent.com/98338109/235728279-27b7f5f9-5c0f-4419-8318-1b58caf706fe.png)
 
-Copy index.html
+- Copy index.html
 
 ![image](https://user-images.githubusercontent.com/98338109/235728661-395b7ec4-6d71-4e54-a439-e77cda157309.png)
 
-Copy static files
+- Copy static files
 
 ![image](https://user-images.githubusercontent.com/98338109/235729729-c58c0f9d-1094-4f6f-824c-31a101d7fbd0.png)
 
+- Migrate 
+$ python3 manage.py makemigrations myapp
+
+![image](https://user-images.githubusercontent.com/98338109/235730302-5522d567-058e-4759-b803-ac406b6031cb.png)
+
+$ python3 manage.py migrate
+
 ![image](https://user-images.githubusercontent.com/98338109/235730435-bf62c2e6-0566-4ef4-8266-d08d788a59fd.png)
 
+$ python3 manage.py createsuperuser
+
+![image](https://user-images.githubusercontent.com/98338109/235730379-389db1f4-7ee6-4f54-b9e8-13b057f7074d.png)
+ 
+- Run Django Server
+$ python3 manage.py runserver
+
+![image](https://user-images.githubusercontent.com/98338109/235730986-a8cdde17-b633-4872-8dde-5d21b9fe3464.png)
 
 ![image](https://user-images.githubusercontent.com/98338109/235730774-9b8776f2-d5f2-43db-9893-86dfab274c43.png)
 
 ![image](https://user-images.githubusercontent.com/98338109/235730911-8ba57ad4-c455-4ed7-80fb-de89d0657775.png)
 
 
-![image](https://user-images.githubusercontent.com/98338109/235730986-a8cdde17-b633-4872-8dde-5d21b9fe3464.png)
 
 
-![image](https://user-images.githubusercontent.com/98338109/235730302-5522d567-058e-4759-b803-ac406b6031cb.png)
 
-![image](https://user-images.githubusercontent.com/98338109/235730379-389db1f4-7ee6-4f54-b9e8-13b057f7074d.png)
 
