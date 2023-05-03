@@ -67,6 +67,7 @@ $ sudo pip3 install -U requests
 ![image](https://user-images.githubusercontent.com/98338109/235729729-c58c0f9d-1094-4f6f-824c-31a101d7fbd0.png)
 
 - Migrate 
+
 $ python3 manage.py makemigrations myapp
 
 ![image](https://user-images.githubusercontent.com/98338109/235730302-5522d567-058e-4759-b803-ac406b6031cb.png)
@@ -88,7 +89,7 @@ $ python3 manage.py runserver
 
 ![image](https://user-images.githubusercontent.com/98338109/235730911-8ba57ad4-c455-4ed7-80fb-de89d0657775.png)
 
-
+## 3. Django project mycpu
 
 
 
