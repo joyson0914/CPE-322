@@ -46,7 +46,7 @@ $ sudo pip3 install -U requests
  
 ![image](https://user-images.githubusercontent.com/98338109/231040208-2c8fa9ac-e67c-476c-b07b-def92298afd5.png)
 
--  Start app
+- Start app
 
 ![image](https://user-images.githubusercontent.com/98338109/231040419-31f914ec-0135-430e-a13a-63fa39981db7.png)
 
@@ -91,6 +91,36 @@ $ python3 manage.py runserver
 
 ## 3. Django project mycpu
 
+- Start project
+![image](https://user-images.githubusercontent.com/98338109/235816230-36893ef1-b4d9-4dd2-bfc9-84fb30d06f68.png)
+
+- Edit settings.py in ~/mycpu/mycpu
+
+![image](https://user-images.githubusercontent.com/98338109/235816473-9d26fef6-797a-452f-93f9-64ebc36b0733.png)
+
+![image](https://user-images.githubusercontent.com/98338109/235816452-b3d7f980-9cec-4852-ad78-6eee60c876a3.png)
+
+- Copy urls.py to ~/mycpu/mycpu
+
+![image](https://user-images.githubusercontent.com/98338109/235816557-2504454e-393a-46c0-afdc-b2813df02dbc.png)
+
+- Copy admin.py, models.py, and views.py to ~/stevens/myapp
+
+![image](https://user-images.githubusercontent.com/98338109/235816606-8a03bf85-ac6b-430d-aa8c-2076b78def92.png)
+
+- Copy index.html
+
+![image](https://user-images.githubusercontent.com/98338109/235816862-7d715322-83a7-4854-858a-92954fbdfe0e.png)
+
+- Copy static files
+
+![image](https://user-images.githubusercontent.com/98338109/235817026-08d75b04-e957-4bdc-8c5a-5ca334e0f234.png)
+
+- Copy controller.py to ~/mycpu
+
+![image](https://user-images.githubusercontent.com/98338109/235817124-c2fcadf2-eed8-4986-ad27-43674df528e3.png)
+
+- Run Django server
 
 
 
