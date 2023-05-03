@@ -92,13 +92,13 @@ $ python3 manage.py runserver
 ## 3. Django project mycpu
 
 - Start project
+
 ![image](https://user-images.githubusercontent.com/98338109/235816230-36893ef1-b4d9-4dd2-bfc9-84fb30d06f68.png)
 
 - Edit settings.py in ~/mycpu/mycpu
 
 ![image](https://user-images.githubusercontent.com/98338109/235816473-9d26fef6-797a-452f-93f9-64ebc36b0733.png)
-
-![image](https://user-images.githubusercontent.com/98338109/235816452-b3d7f980-9cec-4852-ad78-6eee60c876a3.png)
+![image](https://user-images.githubusercontent.com/98338109/235818120-b141c91a-b7c2-4fb0-b92b-70ae0edc869c.png)
 
 - Copy urls.py to ~/mycpu/mycpu
 
@@ -120,7 +120,26 @@ $ python3 manage.py runserver
 
 ![image](https://user-images.githubusercontent.com/98338109/235817124-c2fcadf2-eed8-4986-ad27-43674df528e3.png)
 
+- Migrate
+
+![image](https://user-images.githubusercontent.com/98338109/235818239-5ddea5a7-d342-4575-9a82-86a13951afcb.png)
+![image](https://user-images.githubusercontent.com/98338109/235818364-6cc4a8a7-c722-41e7-861e-5e1729c16f46.png)
+
 - Run Django server
+
+![image](https://user-images.githubusercontent.com/98338109/235818878-b42621c0-3466-4e7f-aa01-84b8885e5c92.png)
+
+
+![image](https://user-images.githubusercontent.com/98338109/235818499-48dd74f4-f5ab-4f93-8005-0e695579048b.png)
+
+![image](https://user-images.githubusercontent.com/98338109/235818648-5a122c6e-d696-4a30-9c0c-8e017d647d1d.png)
+![image](https://user-images.githubusercontent.com/98338109/235818658-6cf9f734-2cb4-47f6-a7c2-dd90f879b9fe.png)
+![image](https://user-images.githubusercontent.com/98338109/235818668-52a321b6-8cce-43eb-bf21-b481566ae6fb.png)
+
+
+![image](https://user-images.githubusercontent.com/98338109/235818813-85090461-bcc8-48fd-9822-291032e0f3a6.png)
+
+
 
 
 
