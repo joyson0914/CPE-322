@@ -31,5 +31,9 @@ $ nano plt_cv2.py
 
 $ python3 plt_final.py
 
+![image](https://user-images.githubusercontent.com/98338109/236650359-4f004360-636f-42e3-ac08-bff235cc51e0.png)
 
 $ python3 plt_cv2.py
+
+![image](https://user-images.githubusercontent.com/98338109/236650221-05d96c29-2fa1-45d3-b049-a95eeb69954a.png)
+
