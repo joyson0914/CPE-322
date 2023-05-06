@@ -30,7 +30,7 @@ Github: https://github.com/kevinwlu/iot.git
 - Lab 5: done! 
 - Lab 6: done!
 - Lab 7: done!
-- Lab 8: on progress- cannot plot using matplotlib
+- Lab 8: done!
 - Lab 9: done!
 - Lab 10: done!
 
